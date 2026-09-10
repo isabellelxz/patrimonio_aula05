@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+  "item": "Notebook Dell",
+  "local": "Laboratório 01",
+  "dataRegistro": "2026-09-10",
+  "valor": 3500.00,
+  "patrimonio": "PAT-00125"
+},
+{
+    "id": 2,
+  "item": "roupa",
+  "local": "loja 01",
+  "dataRegistro": "2026-05-22",
+  "valor": 95.00,
+  "patrimonio": "PAT-00345"
+},
+{
+    "id": 1,
+  "item": "celular iphone",
+  "local": "loja de celular",
+  "dataRegistro": "2026-04-15",
+  "valor": 6700.00,
+  "patrimonio": "PAT-00156"
+}
+]
