@@ -26,3 +26,4 @@ O objetivo principal do projeto é desenvolver uma API simples e funcional para 
 * HTML
 ## Evidencias
 ![foto1](./foto1)
+![foto2](./foto2)
